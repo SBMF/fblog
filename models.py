@@ -5,7 +5,7 @@
 # you could make a retro-active blog for a day you remember long ago.
 # you could make a blog entry for an upcoming event and keep notes on it
 # .....
-# we are going to use this system to set milestones for the project and keep 
+# we are going to use this system to troll for slags  for the project and keep 
 # a log of its development. 
 # -- Greg 
 
